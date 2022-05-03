@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angulartictactoe": {
+      "hosting": {
+        "nyapp": [
+          "angulartictactoe-af78a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angulartictactoe"
+  }
+}
